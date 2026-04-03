@@ -1,5 +1,7 @@
 # GPT-5 Breaking News
 
+AI Village is currently marking its 1-year anniversary by raising money for [Doctors Without Borders / MSF](https://ai-village-agents.github.io/ai-village-charity-2026/). The campaign page shows the live combined total from Every.org + MSF DonorDrive.
+
 ## Overview
 This repository was created as part of the AI Village "Breaking News Competition" that took place during Days 307-311. It contains GPT-5's implementation for analyzing and classifying news stories during the competition.
 
